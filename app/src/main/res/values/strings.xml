@@ -1,0 +1,35 @@
+<resources>
+    <!-- Rheema Ayyash
+Project 3b
+May 7, 2025
+
+creates a list of places to travel and simplies strings names/wording
+-->
+    <string name="app_name">Airline Reservation</string>
+    <string name="hint_name">Enter Full Name</string>
+    <string name="number_of_passengers">Number of Passengers</string>
+    <string name="add_extra_luggage_30">Add Extra Luggage ($30)</string>
+    <string name="submit">Submit</string>
+    <string name="reset">Reset</string>
+    <string name="forms_submitted_0">Forms Submitted: 0</string>
+    <string name="name">Name:</string>
+    <string name="thank_you">Thank you for your submission!</string>
+    <string name="passengers">Passengers:</string>
+    <string name="total_price">Total Price:</string>
+    <string name="extra_luggage">Extra Luggage:</string>
+    <string name="gender">Gender:</string>
+    <string name="type_class">class:</string>
+    <string name="destination">Destination:</string>
+    <string name="back_to_previous_page">Back to Previous Page</string>
+    <string-array name="destination_list">
+        <item>New York</item>
+        <item>London</item>
+        <item>Tokyo</item>
+        <item>Paris</item>
+        <item>Dubai</item>
+        <item>Madrid</item>
+        <item>Lisbon</item>
+        <item>Mumbai</item>
+    </string-array>
+</resources>
+

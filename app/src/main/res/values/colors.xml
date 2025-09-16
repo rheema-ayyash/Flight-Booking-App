@@ -1,0 +1,14 @@
+<resources>
+    <!-- Rheema Ayyash
+Project 3b
+May 7, 2025
+
+added new colors for the background and text
+-->
+    <color name="purple">#6200EE</color>
+    <color name="teal">#03DAC5</color>
+    <color name="background">#FFFFFF</color>
+    <color name="maroon">#8B0000</color>
+    <color name="light_blue">#ADD8E6</color>
+</resources>
+
